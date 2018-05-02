@@ -11,8 +11,10 @@ html body {
 
 p {
 	text-align: left;
-	padding-top: 40px;
+	padding: 40px;
 	color: black;
-	font-size: 45px;
+	font-size: 40px;
 	font-family: "Lorem ipsum";
+	border: 60px dashed yellow bold;
+	margin: 100px;
 }
