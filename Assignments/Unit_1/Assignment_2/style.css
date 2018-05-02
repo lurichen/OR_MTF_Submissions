@@ -15,6 +15,6 @@ p {
 	color: black;
 	font-size: 40px;
 	font-family: "Lorem ipsum";
-	border: 60px dashed yellow;
+	border: dashed yellow 60px;
 	margin: 100px;
 }
