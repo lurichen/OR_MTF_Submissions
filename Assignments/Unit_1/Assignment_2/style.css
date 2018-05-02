@@ -4,14 +4,15 @@ html body {
 	margin: 0;
 	padding: 0;
 	/*Remove this background-color! It is here to make sure that the css and html are linked.*/
-	background-color: #5abaf3;
+	background-color: white;
 }
 
 /*Remove this h1 Rule! */
 
-h1 {
-	text-align: center;
-	padding-top: 50px;
-	color: white;
-	font-size: 100px;
+p {
+	text-align: left;
+	padding-top: 40px;
+	color: black;
+	font-size: 45px;
+	font-family: "Lorem ipsum";
 }
